@@ -1,0 +1,8 @@
+com\debate\ai\model\ChatRequest$Message.class
+com\debate\ai\model\ChatRequest.class
+com\debate\ai\model\DebateRequest.class
+com\debate\ai\service\LlmClient$1.class
+com\debate\ai\config\WebSocketConfig.class
+com\debate\ai\AiDebateApplication.class
+com\debate\ai\controller\DebateWebSocketHandler.class
+com\debate\ai\service\LlmClient.class
