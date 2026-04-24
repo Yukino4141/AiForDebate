@@ -86,7 +86,8 @@ npm run dev
 
 ## 📸 界面预览
 
-*(在这里放上你的实际运行截图)*
+*<img width="2560" height="1433" alt="image" src="https://github.com/user-attachments/assets/9a0592d8-94e6-434b-8edf-4c2ed380f17f" />
+*
 
 | 配置页面 | 辩论进行中 |
 | :---: | :---: |
