@@ -86,12 +86,14 @@ npm run dev
 
 ## 📸 界面预览
 
+**初始界面**
+
 *<img width="2560" height="1433" alt="image" src="https://github.com/user-attachments/assets/9a0592d8-94e6-434b-8edf-4c2ed380f17f" />
 *
 
-| 辩论进行中 |
+**辩论进行中**
 
-| <!-- <img width="2369" height="1331" alt="image" src="https://github.com/user-attachments/assets/58f89ac4-ce16-4ac1-8904-1c009734e8be" />|
+ <img width="2369" height="1331" alt="image" src="https://github.com/user-attachments/assets/58f89ac4-ce16-4ac1-8904-1c009734e8be" />
 
 ---
 
